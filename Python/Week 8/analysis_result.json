@@ -1,0 +1,20 @@
+{
+  "analysis_date": "2025-09-24 01:02:55",
+  "total_papers_analyzed": 1000,
+  "year_range": "2019-2023",
+  "papers_by_year": {
+    "2020": 238,
+    "2021": 253,
+    "2022": 241,
+    "2023": 252,
+    "2019": 16
+  },
+  "top_5_journals": {
+    "The Lancet": 109,
+    "Nature": 106,
+    "BMJ": 105,
+    "PLOS ONE": 105,
+    "Science": 101
+  },
+  "total_unique_journals": 10
+}
